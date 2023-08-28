@@ -1,0 +1,19 @@
+.text-centre{
+  color: yellow;
+  text-align: center;
+}
+.container{
+  align-items: center;
+}
+.bg-red{
+  background-color: red;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
